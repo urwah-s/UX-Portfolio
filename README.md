@@ -27,8 +27,6 @@ Focused on improving accessibility for users with dietary restrictions.
 - Conducted usability testing and thematic analysis
 - Identified key trade-offs between discoverability and usability
 
-📁 [`save-on-foods/`](./save-on-foods)
-
 ---
 
 ### Photo Sharing App – Notification Design Study
@@ -38,8 +36,6 @@ Explored how notification design impacts user engagement in group photo sharing.
 - Conducted a between-subjects study analyzing response time
 - Found that higher notification salience significantly improves responsiveness
 
-📁 [`photo-sharing-app/`](./photo-sharing-app)
-
 ---
 
 ### FLUI Design Hackathon – Restaurant Website Redesign
@@ -48,8 +44,6 @@ Redesigned a restaurant website to better reflect brand identity and improve usa
 - Reimagined the experience based on user research and information architecture
 - Balanced cultural storytelling with accessibility and clarity
 - Developed a cohesive visual identity aligned with the restaurant’s values
-
-📁 [`flui-hackathon/`](./flui-hackathon)
 
 ---
 
